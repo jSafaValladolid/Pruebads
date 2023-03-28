@@ -11,6 +11,8 @@ public class Ordenador {
 	public double precio;
 	/* Varaible que almacena la capacidad de la memoria */
 	public int memoria;
+	/* Variable que acumula la ubicacion del aula*/
+	public String ubicacionAula;
 	
 	/**
 	 * Costructor vacio
